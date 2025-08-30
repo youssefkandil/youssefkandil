@@ -3,9 +3,7 @@
 Hi there! I'm **Youssef Kandil**  
 I'm currently studying **AI & Data Science**, with experience in **Data Analysis** and visualization.  
 I enjoy working on Machine Learning, Deep Learning, and end-to-end Data Science projects 🚀  
-
 ---
-
 ## 👨‍💻 About Me  
 - 📊 Experienced in **Data Analysis** with **Pandas, NumPy, SQL, Power BI, and DAX**  
 - 🐍 Skilled in **Python** programming for data workflows & automation  
