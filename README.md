@@ -128,7 +128,7 @@ Building automation workflows that connect AI models, structured data, external 
   <a href="https://kaggle.com/y0ussefkandil">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="mailto:youssefkandil872@gmail.com">
+  <a href="mailto:youssefkandilmain@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
