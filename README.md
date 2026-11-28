@@ -1,96 +1,98 @@
 # Youssef Kandil
 
-**Aspiring Software Engineer | Full-Stack JavaScript Developer | React | Node.js | AI & Automation**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Aspiring+AI+Engineer;Exploring+LLMs%2C+RAG%2C+and+Generative+AI;Building+with+Python%2C+data%2C+and+curiosity" alt="Aspiring AI Engineer | Exploring AI Engineering" />
+</p>
 
-I'm a Computer Science student at Tanta University, passionate about software engineering and building practical applications that solve real-world problems.
+<p align="center">
+  <a href="https://github.com/youssefkandil"><img src="https://img.shields.io/badge/GitHub-youssefkandil-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <a href="https://linkedin.com/in/y-kandil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="https://kaggle.com/y0ussefkandil"><img src="https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle profile" /></a>
+</p>
 
-My primary focus is **Full-Stack JavaScript Development**, with an emphasis on building modern web applications using React on the frontend and Node.js on the backend.
+## About Me
 
-I'm interested in writing clean, maintainable code, understanding software architecture, developing RESTful APIs, and building responsive, user-friendly web experiences.
+I'm a Computer Science student at **Tanta University** transitioning toward **AI Engineering**. I bring a software development foundation, a background in data analysis and business intelligence, and a strong interest in building practical AI-powered applications.
 
-Beyond web development, I have a background in data analysis, business intelligence, and AI-driven automation. I enjoy exploring how software engineering, data, and AI can work together to create smarter and more efficient solutions.
+I'm currently learning how machine learning and modern language models work, and how to turn them into useful products. My areas of exploration include **Machine Learning, Deep Learning, NLP, Computer Vision, LLM applications, RAG, and model fine-tuning**.
 
-I'm continuously learning, building hands-on projects, and documenting my journey through GitHub.
+I enjoy connecting software, data, and AI—from preparing data and experimenting with models to building interfaces, APIs, and automation around them. I document my progress through hands-on projects and continuous learning.
+
+> **Current direction:** Software development + data foundations → AI Engineering
 
 ---
 
-## Technical Skills
-
-### Programming Languages
+## Foundations & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### Frontend Development
+<details>
+  <summary><strong>🧠 AI Engineering learning map</strong></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Responsive_Design-333333?style=flat-square" />
-</p>
+  <br />
 
-### Backend Development
+  | Area | Topics I'm exploring |
+  | --- | --- |
+  | **Machine Learning** | Data preparation, feature engineering, supervised and unsupervised learning, model evaluation |
+  | **Deep Learning** | Neural network fundamentals, training workflows, PyTorch and TensorFlow |
+  | **LLMs & Generative AI** | Transformers, inference, prompting, structured outputs, tool use, AI agents |
+  | **RAG** | Document ingestion, chunking, embeddings, vector search, retrieval strategies, grounded generation |
+  | **Fine-tuning** | When to fine-tune, dataset preparation, instruction tuning, parameter-efficient methods such as LoRA |
+  | **NLP** | Text preprocessing, classification, semantic search, information extraction |
+  | **Computer Vision** | Image preprocessing, classification, object detection, vision model fundamentals |
+  | **Deployment & evaluation** | API integration, experiment tracking, testing model quality, monitoring and responsible AI |
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-2C3E50?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-333333?style=flat-square" />
-</p>
+  <p><em>These are learning and exploration areas, not a claim of professional experience with every listed tool or technique.</em></p>
+</details>
 
-### Data Analysis & Business Intelligence
+<details>
+  <summary><strong>🛠️ Software, data & automation toolkit</strong></summary>
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-217346?style=flat-square" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</p>
+  <br />
 
-### AI, Machine Learning & Automation
+  **Programming:** Python, JavaScript, C#, C++  
+  **Web:** React, HTML, CSS, Node.js, REST APIs  
+  **Data:** Pandas, NumPy, SQL, Power BI, DAX, Matplotlib, Plotly, Streamlit  
+  **Automation:** n8n, workflow automation, external APIs  
+  **Development:** Git, GitHub, VS Code, Visual Studio, Jupyter
 
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Workflow_Automation-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square" />
-</p>
-
-### Tools & Development Environment
-
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
+</details>
 
 ---
 
 ## Current Focus
 
-- Strengthening my JavaScript fundamentals and problem-solving skills.
-- Building modern, responsive user interfaces using React.
-- Learning backend development and server-side programming with Node.js.
-- Understanding RESTful APIs and client-server architecture.
-- Improving my knowledge of databases, SQL, and data management.
-- Applying software engineering principles to build clean and maintainable applications.
-- Exploring AI-powered applications and workflow automation using n8n, LLMs, and external APIs.
+- Building a strong foundation in Python, data handling, and machine learning concepts.
+- Learning the foundations of deep learning and neural networks.
+- Exploring LLM-powered applications, including prompt design, structured outputs, and AI agents.
+- Understanding RAG workflows: preparing knowledge sources, generating embeddings, retrieving relevant context, and evaluating answers.
+- Studying NLP and computer vision fundamentals.
+- Learning how fine-tuning works and when it is a good fit compared with prompting or retrieval.
+- Applying my software engineering and data analysis background to practical AI projects.
+
+<details>
+  <summary><strong>🗺️ My AI Engineering roadmap</strong></summary>
+
+  <br />
+
+  **Python & data foundations** → **Machine Learning & evaluation** → **Deep Learning** → **NLP & Computer Vision** → **LLM applications & RAG** → **Fine-tuning** → **Deployment, monitoring & responsible AI**
+
+  I update this roadmap as I learn and build.
+
+</details>
 
 ---
-
 ## 🚀 Featured Projects
 
 <p align="center">
